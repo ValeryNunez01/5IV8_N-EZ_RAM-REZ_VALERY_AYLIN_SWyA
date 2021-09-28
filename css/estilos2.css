@@ -1,0 +1,41 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.form-floating, p{
+    width: 70%;
+    height: 5%;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h1{
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(38, 129, 38);
+}
+
+#texto-ci-o-des{
+    width: 70%;
+    padding-bottom: 30px;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 10%;
+    border-color: rgb(185, 185, 185);
+}
+
+button{
+    width: 20%;
+    margin-left: 19.5%;
+    margin-top: 6%;
+}
+
+img{
+    margin-left: 45%;
+    margin-right: 5%;
+    width: 50%;
+    margin-top: 5%;
+}
